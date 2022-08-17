@@ -7,10 +7,10 @@ La otra parte sería de pedido de cotización donde el cliente elige que tipo co
 Mayores de 18 años, la mayoría se encuentra entre los 25 y 60 años.
 
 # Tipografía principal
-Fue elegida Inter [Google Fonts] (https://fonts.google.com/specimen/Inter?query=+Inter+)
+Fue elegida Inter desde [Google Fonts](https://fonts.google.com/specimen/Inter?query=+Inter+) 
 
 # Paleta de colores
 ![paleta1](https://user-images.githubusercontent.com/110635589/184995481-8264bc72-0a4b-42a1-96f6-583e95e2969b.png)
 
 # Creación de logo
-El logo son las letras GPR unidas en rojo como en forma de sello que son sus iniciales junto con su nombre Graciela Pratti de Reartes.
+El logo son las letras GPR unidas en rojo como en forma de sello que son sus iniciales junto con su nombre.
